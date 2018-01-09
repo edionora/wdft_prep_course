@@ -11,7 +11,6 @@ Using the loop provided for you below, use the array push method to insert the n
 */
 
 
-
 /* The given for loop provided does not insert 1 to 10. It does 0 to 9
 for(var i=0;i<10;i++) */
 for(var i=1;i<=10;i++) { //This is the correct parameters if
