@@ -10,7 +10,6 @@ Exercise #2
 Using the loop provided for you below, use the array push method to insert the numbers 1 to 10 into the array.
 */
 
-
 /* The given for loop provided does not insert 1 to 10. It does 0 to 9
 for(var i=0;i<10;i++) */
 for(var i=1;i<=10;i++) { //This is the correct parameters if
