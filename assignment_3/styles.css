@@ -1,1 +1,17 @@
+div.name {
+	position: relative;
+}
+.name{
+	position: absolute;
+	text-align: center;
+}
 
+
+.headings, h4 {
+	padding-left: 10px;
+}
+
+.sub{
+	font-weight: bold;
+	display: inline;
+}
